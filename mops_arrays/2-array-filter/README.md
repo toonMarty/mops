@@ -16,14 +16,16 @@ The function is implemented without using the array.filter method
 
 # Solution
 ---------------------------------------------------------------------
+
 ## step1
 Create a new array, **newArray**, that will hold values for which fn will be truthy
 
 ## step2
-Traverse(iterate) through the original array, arr, ensuring that the array elements satisfy the following condition:
- If fn is truthy/evaluates to true:
+Traverse(iterate) through the original array, arr, ensuring that the array elements satisfy the following condition:   
+ If fn is truthy/evaluates to true:   
     add the **arr** elements to **newArray**, created in step 1
 
 ## step 3
 Return the new array, **newArray**
+
 -----------------------------------------------------------------
