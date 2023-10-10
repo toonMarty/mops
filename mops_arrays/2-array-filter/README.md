@@ -22,8 +22,8 @@ Create a new array, **newArray**, that will hold values for which fn will be tru
 
 ## step2
 Traverse(iterate) through the original array, arr, ensuring that the array elements satisfy the following condition:   
- If fn is truthy/evaluates to true:   
-    add the **arr** elements to **newArray**, created in step 1
+ &nbsp;&nbsp;&nbsp;&nbsp;If fn is truthy/evaluates to true:   
+    &nbsp;&nbsp;&nbsp;&nbsp;add the **arr** elements to **newArray**, created in step 1
 
 ## step 3
 Return the new array, **newArray**
